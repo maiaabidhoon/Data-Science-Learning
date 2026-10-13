@@ -1,0 +1,101 @@
+user_id,first_name,last_name,email,phone,date_of_birth,gender,city,state,country,occupation,registration_date,is_active
+1,James,Smith,james.smith@email.com,555-0101,1985-03-15,Male,New York,NY,USA,Engineer,2023-01-15,true
+2,Mary,Johnson,mary.johnson@email.com,555-0102,1990-07-22,Female,Los Angeles,CA,USA,Teacher,2023-01-18,true
+3,John,Williams,john.williams@email.com,555-0103,1978-11-08,Male,Chicago,IL,USA,Doctor,2023-01-20,true
+4,Patricia,Brown,patricia.brown@email.com,555-0104,1992-05-30,Female,Houston,TX,USA,Designer,2023-01-22,true
+5,Robert,Jones,robert.jones@email.com,555-0105,1988-09-14,Male,Phoenix,AZ,USA,Manager,2023-01-25,true
+6,Jennifer,Garcia,jennifer.garcia@email.com,555-0106,1995-02-18,Female,Philadelphia,PA,USA,Nurse,2023-01-28,true
+7,Michael,Miller,michael.miller@email.com,555-0107,1982-12-03,Male,San Antonio,TX,USA,Developer,2023-02-01,true
+8,Linda,Davis,linda.davis@email.com,555-0108,1991-08-25,Female,San Diego,CA,USA,Accountant,2023-02-03,true
+9,William,Rodriguez,william.rodriguez@email.com,555-0109,1975-04-11,Male,Dallas,TX,USA,Architect,2023-02-05,true
+10,Elizabeth,Martinez,elizabeth.martinez@email.com,555-0110,1993-10-07,Female,San Jose,CA,USA,Analyst,2023-02-08,true
+11,David,Hernandez,david.hernandez@email.com,555-0111,1987-06-19,Male,Austin,TX,USA,Consultant,2023-02-10,true
+12,Barbara,Lopez,barbara.lopez@email.com,555-0112,1994-01-28,Female,Jacksonville,FL,USA,Writer,2023-02-12,true
+13,Richard,Gonzalez,richard.gonzalez@email.com,555-0113,1980-03-05,Male,Fort Worth,TX,USA,Chef,2023-02-15,true
+14,Susan,Wilson,susan.wilson@email.com,555-0114,1989-11-16,Female,Columbus,OH,USA,Photographer,2023-02-18,true
+15,Joseph,Anderson,joseph.anderson@email.com,555-0115,1983-07-09,Male,Charlotte,NC,USA,Lawyer,2023-02-20,true
+16,Jessica,Thomas,jessica.thomas@email.com,555-0116,1996-04-23,Female,Indianapolis,IN,USA,Marketing,2023-02-22,true
+17,Thomas,Taylor,thomas.taylor@email.com,555-0117,1979-09-02,Male,Seattle,WA,USA,Scientist,2023-02-25,true
+18,Sarah,Moore,sarah.moore@email.com,555-0118,1992-12-14,Female,Denver,CO,USA,Professor,2023-02-28,true
+19,Charles,Jackson,charles.jackson@email.com,555-0119,1986-05-27,Male,Washington,DC,USA,Journalist,2023-03-02,true
+20,Karen,Martin,karen.martin@email.com,555-0120,1990-08-08,Female,Boston,MA,USA,Therapist,2023-03-05,true
+21,Christopher,Lee,christopher.lee@email.com,555-0121,1984-02-11,Male,El Paso,TX,USA,Pilot,2023-03-08,true
+22,Nancy,Perez,nancy.perez@email.com,555-0122,1993-06-30,Female,Nashville,TN,USA,Editor,2023-03-10,true
+23,Daniel,Thompson,daniel.thompson@email.com,555-0123,1981-10-17,Male,Detroit,MI,USA,Musician,2023-03-12,true
+24,Lisa,White,lisa.white@email.com,555-0124,1995-03-24,Female,Portland,OR,USA,Artist,2023-03-15,true
+25,Matthew,Harris,matthew.harris@email.com,555-0125,1988-01-06,Male,Memphis,TN,USA,Sales,2023-03-18,true
+26,Betty,Sanchez,betty.sanchez@email.com,555-0126,1991-09-13,Female,Oklahoma City,OK,USA,Receptionist,2023-03-20,true
+27,Anthony,Clark,anthony.clark@email.com,555-0127,1977-12-28,Male,Las Vegas,NV,USA,Investor,2023-03-22,true
+28,Margaret,Ramirez,margaret.ramirez@email.com,555-0128,1994-07-04,Female,Louisville,KY,USA,Dentist,2023-03-25,true
+29,Donald,Lewis,donald.lewis@email.com,555-0129,1985-04-20,Male,Baltimore,MD,USA,Technician,2023-03-28,true
+30,Sandra,Robinson,sandra.robinson@email.com,555-0130,1992-11-25,Female,Milwaukee,WI,USA,Paralegal,2023-03-30,true
+31,Mark,Walker,mark.walker@email.com,555-0131,1980-08-15,Male,Albuquerque,NM,USA,Contractor,2023-04-02,true
+32,Ashley,Young,ashley.young@email.com,555-0132,1996-02-09,Female,Tucson,AZ,USA,Social Worker,2023-04-05,true
+33,Paul,Allen,paul.allen@email.com,555-0133,1983-06-12,Male,Fresno,CA,USA,Pharmacist,2023-04-08,true
+34,Kimberly,King,kimberly.king@email.com,555-0134,1990-10-21,Female,Sacramento,CA,USA,Teacher,2023-04-10,true
+35,Steven,Wright,steven.wright@email.com,555-0135,1978-03-30,Male,Long Beach,CA,USA,Electrician,2023-04-12,true
+36,Emily,Scott,emily.scott@email.com,555-0136,1994-05-18,Female,Kansas City,MO,USA,Web Developer,2023-04-15,true
+37,Andrew,Torres,andrew.torres@email.com,555-0137,1987-01-24,Male,Mesa,AZ,USA,Plumber,2023-04-18,true
+38,Donna,Nguyen,donna.nguyen@email.com,555-0138,1993-09-07,Female,Atlanta,GA,USA,HR Manager,2023-04-20,true
+39,Kenneth,Hill,kenneth.hill@email.com,555-0139,1982-12-19,Male,Virginia Beach,VA,USA,Firefighter,2023-04-22,true
+40,Carol,Flores,carol.flores@email.com,555-0140,1991-04-02,Female,Omaha,NE,USA,Biologist,2023-04-25,true
+41,Joshua,Green,joshua.green@email.com,555-0141,1986-08-26,Male,Colorado Springs,CO,USA,Police Officer,2023-04-28,true
+42,Michelle,Adams,michelle.adams@email.com,555-0142,1995-06-11,Female,Raleigh,NC,USA,UX Designer,2023-04-30,true
+43,Kevin,Nelson,kevin.nelson@email.com,555-0143,1979-11-03,Male,Miami,FL,USA,Truck Driver,2023-05-02,true
+44,Amanda,Baker,amanda.baker@email.com,555-0144,1992-02-16,Female,Oakland,CA,USA,Veterinarian,2023-05-05,true
+45,Brian,Hall,brian.hall@email.com,555-0145,1984-07-29,Male,Minneapolis,MN,USA,Financial Advisor,2023-05-08,true
+46,Melissa,Rivera,melissa.rivera@email.com,555-0146,1990-03-08,Female,Tulsa,OK,USA,Graphic Designer,2023-05-10,true
+47,George,Campbell,george.campbell@email.com,555-0147,1976-10-14,Male,Cleveland,OH,USA,Professor,2023-05-12,true
+48,Deborah,Mitchell,deborah.mitchell@email.com,555-0148,1993-12-01,Female,Wichita,KS,USA,Real Estate Agent,2023-05-15,true
+49,Edward,Carter,edward.carter@email.com,555-0149,1981-05-23,Male,Arlington,TX,USA,Security Guard,2023-05-18,true
+50,Stephanie,Roberts,stephanie.roberts@email.com,555-0150,1994-08-17,Female,New Orleans,LA,USA,Event Planner,2023-05-20,true
+51,Ronald,Phillips,ronald.phillips@email.com,555-0151,1988-01-31,Male,Tampa,FL,USA,Business Owner,2023-05-22,true
+52,Rebecca,Evans,rebecca.evans@email.com,555-0152,1991-06-05,Female,Honolulu,HI,USA,Marine Biologist,2023-05-25,true
+53,Timothy,Turner,timothy.turner@email.com,555-0153,1983-09-28,Male,Anaheim,CA,USA,Engineer,2023-05-28,true
+54,Laura,Diaz,laura.diaz@email.com,555-0154,1996-04-12,Female,Santa Ana,CA,USA,Physician Assistant,2023-05-30,true
+55,Jason,Parker,jason.parker@email.com,555-0155,1980-11-20,Male,St. Louis,MO,USA,Mechanic,2023-06-02,true
+56,Sharon,Cruz,sharon.cruz@email.com,555-0156,1993-07-15,Female,Pittsburgh,PA,USA,Occupational Therapist,2023-06-05,true
+57,Jeffrey,Edwards,jeffrey.edwards@email.com,555-0157,1985-02-27,Male,Greensboro,NC,USA,Civil Engineer,2023-06-08,true
+58,Cynthia,Collins,cynthia.collins@email.com,555-0158,1992-10-09,Female,Lincoln,NE,USA,Speech Pathologist,2023-06-10,true
+59,Ryan,Reyes,ryan.reyes@email.com,555-0159,1987-05-04,Male,Orlando,FL,USA,Flight Attendant,2023-06-12,true
+60,Kathleen,Stewart,kathleen.stewart@email.com,555-0160,1994-12-22,Female,Irvine,CA,USA,Physical Therapist,2023-06-15,true
+61,Nicholas,Morris,nicholas.morris@email.com,555-0161,1982-08-18,Male,Newark,NJ,USA,Insurance Agent,2023-06-18,true
+62,Amy,Morales,amy.morales@email.com,555-0162,1990-01-13,Female,Toledo,OH,USA,Lab Technician,2023-06-20,true
+63,Eric,Murphy,eric.murphy@email.com,555-0163,1979-06-26,Male,Durham,NC,USA,Professor,2023-06-22,true
+64,Angela,Cook,angela.cook@email.com,555-0164,1995-09-30,Female,Chula Vista,CA,USA,Nutritionist,2023-06-25,true
+65,Stephen,Rogers,stephen.rogers@email.com,555-0165,1986-03-17,Male,Fort Wayne,IN,USA,Construction Manager,2023-06-28,true
+66,Anna,Gutierrez,anna.gutierrez@email.com,555-0166,1991-11-08,Female,Jersey City,NJ,USA,Data Analyst,2023-06-30,true
+67,Jonathan,Ortiz,jonathan.ortiz@email.com,555-0167,1984-04-25,Male,St. Paul,MN,USA,Chef,2023-07-02,true
+68,Brenda,Morgan,brenda.morgan@email.com,555-0168,1993-08-03,Female,North Las Vegas,NV,USA,Loan Officer,2023-07-05,true
+69,Justin,Cooper,justin.cooper@email.com,555-0169,1988-12-10,Male,Madison,WI,USA,Software Engineer,2023-07-08,true
+70,Pamela,Peterson,pamela.peterson@email.com,555-0170,1996-05-29,Female,Chesapeake,VA,USA,Interior Designer,2023-07-10,true
+71,Brandon,Bailey,brandon.bailey@email.com,555-0171,1981-09-21,Male,Glendale,AZ,USA,Sales Manager,2023-07-12,true
+72,Nicole,Reed,nicole.reed@email.com,555-0172,1992-01-05,Female,Hialeah,FL,USA,Registered Nurse,2023-07-15,true
+73,Gary,Kelly,gary.kelly@email.com,555-0173,1977-07-12,Male,Garland,TX,USA,Superintendent,2023-07-18,true
+74,Samantha,Howard,samantha.howard@email.com,555-0174,1994-02-24,Female,Scottsdale,AZ,USA,Public Relations,2023-07-20,true
+75,Raymond,Ramos,raymond.ramos@email.com,555-0175,1985-10-30,Male,Norfolk,VA,USA,Naval Officer,2023-07-22,true
+76,Katherine,Kim,katherine.kim@email.com,555-0176,1990-06-08,Female,Fremont,CA,USA,Product Manager,2023-07-25,true
+77,Patrick,Cox,patrick.cox@email.com,555-0177,1983-03-01,Male,Irving,TX,USA,Air Traffic Controller,2023-07-28,true
+78,Christine,Ward,christine.ward@email.com,555-0178,1995-11-19,Female,San Bernardino,CA,USA,School Counselor,2023-07-30,true
+79,Jack,Richardson,jack.richardson@email.com,555-0179,1988-08-14,Male,Birmingham,AL,USA,Restaurant Owner,2023-08-02,true
+80,Debra,Watson,debra.watson@email.com,555-0180,1991-04-07,Female,Rochester,NY,USA,Social Worker,2023-08-05,true
+81,Dennis,Brooks,dennis.brooks@email.com,555-0181,1980-12-25,Male,Spokane,WA,USA,Landscaper,2023-08-08,true
+82,Rachel,Chavez,rachel.chavez@email.com,555-0182,1993-09-16,Female,Gilbert,AZ,USA,Optometrist,2023-08-10,true
+83,Jerry,Wood,jerry.wood@email.com,555-0183,1986-05-09,Male,Winston-Salem,NC,USA,Chiropractor,2023-08-12,true
+84,Carolyn,James,carolyn.james@email.com,555-0184,1994-01-20,Female,Oxnard,CA,USA,Fashion Designer,2023-08-15,true
+85,Tyler,Bennett,tyler.bennett@email.com,555-0185,1982-07-03,Male,Huntington Beach,CA,USA,Surfer/Instructor,2023-08-18,true
+86,Janet,Gray,janet.gray@email.com,555-0186,1990-02-14,Female,Glendale,CA,USA,Librarian,2023-08-20,true
+87,Aaron,Mendoza,aaron.mendoza@email.com,555-0187,1989-10-27,Male,Tacoma,WA,USA,Longshoreman,2023-08-22,true
+88,Catherine,Ruiz,catherine.ruiz@email.com,555-0188,1996-06-01,Female,Fontana,CA,USA,Translator,2023-08-25,true
+89,Henry,Freeman,henry.freeman@email.com,555-0189,1978-04-18,Male,Moreno Valley,CA,USA,Postal Worker,2023-08-28,true
+90,Heather,Warren,heather.warren@email.com,555-0190,1992-12-06,Female,Des Moines,IA,USA,Biomedical Engineer,2023-08-30,true
+91,Douglas,Dixon,douglas.dixon@email.com,555-0191,1984-08-22,Male,Richmond,VA,USA,Truck Driver,2023-09-02,true
+92,Diane,Hunt,diane.hunt@email.com,555-0192,1993-03-11,Female,Yonkers,NY,USA,Financial Analyst,2023-09-05,true
+93,Peter,Palmer,peter.palmer@email.com,555-0193,1987-11-29,Male,Worcester,MA,USA,College Professor,2023-09-08,true
+94,Julie,Robertson,julie.robertson@email.com,555-0194,1995-07-07,Female,Knoxville,TN,USA,Speech Therapist,2023-09-10,true
+95,Walter,Hicks,walter.hicks@email.com,555-0195,1976-05-16,Male,Grand Rapids,MI,USA,Factory Supervisor,2023-09-12,true
+96,Victoria,Crawford,victoria.crawford@email.com,555-0196,1991-02-02,Female,Vancouver,WA,USA,Art Director,2023-09-15,true
+97,Harold,Henry,harold.henry@email.com,555-0197,1983-09-13,Male,Providence,RI,USA,Ship Captain,2023-09-18,true
+98,Grace,Boyd,grace.boyd@email.com,555-0198,1994-05-26,Female,Salem,OR,USA,Environmental Scientist,2023-09-20,true
+99,Roger,Mason,roger.mason@email.com,555-0199,1980-01-09,Male,Eugene,OR,USA,Forest Ranger,2023-09-22,true
+100,Lori,Weaver,lori.weaver@email.com,555-0200,1992-10-04,Female,Corpus Christi,TX,USA,Marine Engineer,2023-09-25,true
